@@ -169,7 +169,7 @@ height: 95%;
 & img{
     max-width: 200px;
     @media screen and (max-width:760px){
-        width: 150px;
+        width: 120px;
     }
 }
 `,g0=oe.div`
